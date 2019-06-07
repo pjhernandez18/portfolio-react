@@ -1,0 +1,19 @@
+.banner-text{
+    background-color: black;
+    opacity: .7;
+    width: 100%;
+    margin: 30px;
+    border-radius: 10px;
+    float: left;
+    padding: 20px;
+    justify-content: left; 
+    text-align: left;
+}
+.banner-text h1, .banner-text h3{
+    font-family: 'Courier New';
+    font-weight: normal;
+    color: white;
+    padding-top: 5px;
+    padding-left: 10px;
+    margin: auto;
+  }
