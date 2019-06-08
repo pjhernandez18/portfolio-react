@@ -3,7 +3,6 @@ import React, {Component} from 'react'
 class Home extends Component {
     render () {
         return (
-            <div>
                 <section id="colorlib-hero" className="js-fullheight" data-section="home">
                 <div className="flexslider js-fullheight">
                     <ul className="slides">
@@ -20,7 +19,7 @@ class Home extends Component {
                                     <h3> > Traveller</h3>
                                     <h3> > _</h3>
                                     <br/>
-                                    <p><a className="btn btn-primary btn-learn" href="" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                                    <div><a className="btn-cv" href="" target="_blank" rel="noopener noreferrer">View CV <i className="icon-download4"/></a></div>
                                 </div>
                             </div>
                             </div>
@@ -59,9 +58,7 @@ class Home extends Component {
                     </li> */}
                     </ul>
                 </div>
-        </section>
-      </div>
-        
+        </section>    
         )
     }
 }

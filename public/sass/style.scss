@@ -470,12 +470,12 @@ figure {
 					border: none;
 					font-weight: 400;
 					&.btn-learn{
-						color: $brand-black;
-						border: 1px solid $brand-black;
+						color: white;
+						border: 1px solid white;
 						background: transparent !important;
 						&:hover{
 							background: transparent !important;
-							border: 1px solid $brand-black !important;
+							border: 1px solid white !important;
 						}
 					}
 					@media screen and (max-width: $screen-sm ) {
