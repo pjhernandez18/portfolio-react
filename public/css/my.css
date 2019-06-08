@@ -17,3 +17,12 @@
     padding-left: 10px;
     margin: auto;
   }
+
+  .about-img {
+    height: 60%;
+    width: 40%;
+    border-radius: 20%;
+    transform: rotate(90deg);
+    float: right;
+
+  }

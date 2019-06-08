@@ -27,7 +27,7 @@ class Home extends Component {
                         </div>
                         </div>
                     </li>
-                    <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
+                    {/* <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
                         <div className="overlay" />
                         <div className="container-fluid">
                         <div className="row">
@@ -56,7 +56,7 @@ class Home extends Component {
                             </div>
                         </div>
                         </div>
-                    </li>
+                    </li> */}
                     </ul>
                 </div>
         </section>

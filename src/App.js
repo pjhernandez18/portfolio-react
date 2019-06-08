@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Sidebar from './components/sidebar.js';
 import Home from './components/home.js';
+import About from './components/about.js';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       {/* Main Content */}
       <div id="colorlib-main">
           <Home></Home>
+          <About></About>
       </div>
     </div>
   );
