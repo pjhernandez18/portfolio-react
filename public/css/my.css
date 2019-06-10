@@ -18,6 +18,10 @@
     margin: auto;
   }
 
+  .about-desc{
+    font-size: 20px;
+  }
+
   .about-img {
     height: 60%;
     width: 40%;
@@ -38,3 +42,11 @@
     color: white;
   }
   
+  .project-title {
+    color: white;
+  }
+
+  .project-desc{
+    color: white;
+    font-size: 15px;
+  }

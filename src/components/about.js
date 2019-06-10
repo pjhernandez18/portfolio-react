@@ -12,12 +12,12 @@ class About extends Component {
                     <div className="col-md-12">
                         <div className="about-desc">
                         <h2 className="colorlib-heading">About Me</h2>
-                        <p> <img className="about-img" src="images/about-me.jpg"/>Hi! My name is Paul Jerome Hernandez, but most call me PJ. I grew up in the Philippines, and have lived in Indonesia, Singapore, and the United States. 
+                        <p className="about-desc"> <img className="about-img" src="images/about-me.jpg"/>Hi! My name is Paul Jerome Hernandez, but most call me PJ. I grew up in the Philippines, and have lived in Indonesia, Singapore, and the United States. 
                             I'm an incoming senior at the University of Southern California studying Computer Science. I'm absolutely obsessed with developing user-driven applications and managing consumer-facing software products from ideation to launch.<br></br> <br></br>
-                            I first stumbled on code in high school, building simple circuits using logic gates. I then got exposed to application development and decided to pursue 
-                            CS in college. I got hooked by the idea of using technology to simply my own life and make an impact among others. Now, I find myself navigating through 
+                            I first stumbled on code in high school by building simple circuits using logic gates. I then got exposed to application development and decided to pursue 
+                            CS in college. I got hooked by the idea of using technology to simply my own life and other people's lives. Now, I find myself navigating through 
                             this career in the hopes of being a part of an organization that empowers people and businesses through technology. <br></br> <br></br>
-                            When I'm not thinking of tech, you can talk to me about fitness, brewing coffee, exploring new places, music, or sports.
+                            When I'm not thinking of tech, I'm also into fitness, brewing the perfect cup of coffee, being a foreigner in a new place, and playing competitive sports.
                         </p>
                         </div>
                     </div>

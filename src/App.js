@@ -3,6 +3,7 @@ import './App.css';
 import Sidebar from './components/sidebar.js';
 import Home from './components/home.js';
 import About from './components/about.js';
+import Projects from './components/projects.js'
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <div id="colorlib-main">
           <Home></Home>
           <About></About>
+          <Projects></Projects>
       </div>
     </div>
   );
