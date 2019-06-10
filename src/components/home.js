@@ -3,7 +3,7 @@ import React, {Component} from 'react'
 class Home extends Component {
     render () {
         return (
-                <section id="colorlib-hero" className="js-fullheight" data-section="home">
+                <div id="colorlib-hero" className="js-fullheight" data-section="home">
                 <div className="flexslider js-fullheight">
                     <ul className="slides">
                     <li style={{backgroundImage: 'url(images/barcelona.png)'}}>
@@ -58,7 +58,7 @@ class Home extends Component {
                     </li> */}
                     </ul>
                 </div>
-        </section>    
+        </div>    
         )
     }
 }

@@ -3,8 +3,8 @@ import React, {Component} from 'react'
 class About extends Component {
     render () {
         return(
-            <div>
-            <section className="colorlib-about" data-section="about">
+            
+            <div className="colorlib-about" data-section="about">
             <div className="colorlib-narrow-content">
                 <div className="row">
                 <div className="col-md-12">
@@ -54,7 +54,6 @@ class About extends Component {
                         <h3>Application Development</h3>
                         <p>I use what I learn in class and the resources around me to develop and deploy mobile and web applications. 
                         <br/>
-                            <a href="#projects">Find out more here.</a>
                         </p>
                         HTML, CSS, Javascript, React, Redux, Swift, Node.js, Express.js, MySQL, AJAX, JQuery, Jekyll
                     </div>
@@ -76,8 +75,8 @@ class About extends Component {
                 </div>
                 </div>
         </div>
-        </section>
-      </div>
+        </div>
+      
 
         )
     }

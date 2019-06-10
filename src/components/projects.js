@@ -3,7 +3,7 @@ import React, {Component} from 'react'
 class Projects extends Component {
     render () {
         return (
-                 <section class="colorlib-work" data-section="projects">
+                 <div class="colorlib-work" data-section="projects">
                     <div class="colorlib-narrow-content">
                         <div class="row">
                             <div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
@@ -81,7 +81,7 @@ class Projects extends Component {
                             
                         </div>
                     </div>
-                </section>
+                </div>
             
         )
     }
