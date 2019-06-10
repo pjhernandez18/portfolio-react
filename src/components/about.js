@@ -3,7 +3,6 @@ import React, {Component} from 'react'
 class About extends Component {
     render () {
         return(
-            
             <div className="colorlib-about" data-section="about">
             <div className="colorlib-narrow-content">
                 <div className="row">

@@ -18,8 +18,8 @@ class Sidebar extends Component {
                                 <ul>
                                 <li className="active"><a href="#home" data-nav-section="home">Home</a></li>
                                 <li><a href="#about" data-nav-section="about">About</a></li>
+                                <li><a href="#experience" data-nav-section="experience">Experience</a></li>
                                 <li><a href="#projects" data-nav-section="projects">Projects</a></li>
-                                <li><a href="#timeline" data-nav-section="timeline">Experience</a></li>
                                 <li><a href="#contact" data-nav-section="contact">Contact</a></li>
                                 </ul>
                             </div>
@@ -27,15 +27,15 @@ class Sidebar extends Component {
                     <nav id="colorlib-main-menu">
                     {/* Social Links */}
                     <ul>
-                        <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-                        <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                        <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                        <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                        <li><a href="https://www.facebook.com/paul.j.hernandez.7" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
+                        <li><a href="https://www.instagram.com/pjrhernandez/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                        <li><a href="https://www.linkedin.com/in/pj-hernandez/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                        <li><a href="https://github.com/pjhernandez18" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                     </ul>
                     </nav>
             <div className="colorlib-footer">
-            <p><small>&copy; {/*-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> */}
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Thanks to <a href="https://colorlib.com" target="_blank">Colorlib</a> for the design inpiration for this site. 
+            <p><small>{/*-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> */}
+           Thanks to <a href="https://colorlib.com" target="_blank">Colorlib</a> for the design inpiration for this site. 
               </small></p>
               <p><small>
                 

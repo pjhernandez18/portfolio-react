@@ -3,7 +3,8 @@ import './App.css';
 import Sidebar from './components/sidebar.js';
 import Home from './components/home.js';
 import About from './components/about.js';
-import Projects from './components/projects.js'
+import Experience from './components/experience';
+import Projects from './components/projects.js';
 
 
 function App() {
@@ -16,7 +17,9 @@ function App() {
       <div id="colorlib-main">
           <Home></Home>
           <About></About>
+          <Experience></Experience>
           <Projects></Projects>
+
       </div>
     </div>
   );

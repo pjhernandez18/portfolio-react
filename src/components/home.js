@@ -4,7 +4,7 @@ class Home extends Component {
     render () {
         return (
                 <div id="colorlib-hero" className="js-fullheight" data-section="home">
-                <div className="flexslider js-fullheight">
+                <div className="flexslider js-fullheight js-fullwidth">
                     <ul className="slides">
                     <li style={{backgroundImage: 'url(images/barcelona.png)'}}>
                         <div className="overlay" />
@@ -19,7 +19,7 @@ class Home extends Component {
                                     <h3> > Traveller</h3>
                                     <h3> > _</h3>
                                     <br/>
-                                    <div><a className="btn-cv" href="" target="_blank" rel="noopener noreferrer">View CV <i className="icon-download4"/></a></div>
+                                    <div><a className="btn-cv" href="resume/Paul_Hernandez_Resume_v3.pdf" target="_blank" rel="noopener noreferrer">View CV <i className="icon-download4"/></a></div>
                                 </div>
                             </div>
                             </div>
