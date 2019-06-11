@@ -1,0 +1,56 @@
+.banner-text{
+    background-color: black;
+    opacity: .7;
+    width: 100%;
+    margin: 30px;
+    border-radius: 10px;
+    float: left;
+    padding: 20px;
+    justify-content: left; 
+    text-align: left;
+}
+.banner-text h1, .banner-text h3{
+    font-family: 'Courier New';
+    font-weight: normal;
+    color: white;
+    padding-top: 5px;
+    padding-left: 10px;
+    margin: auto;
+  }
+
+  .about-desc{
+    font-size: 20px;
+  }
+
+
+  .about-img {
+    height: 50%;
+    width: 40%;
+    border-radius: 20%;
+    transform: rotate(90deg);
+    float: right;
+    padding: 1em;
+  
+  }
+  .btn-cv{
+    height: 10px;
+    width: 50px;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 1px solid white;
+    cursor:pointer;
+    overflow: hidden;
+    padding: 10px;
+    color: white;
+  }
+  
+  .project-title {
+    color: white;
+  }
+
+  .project-desc{
+    color: white;
+    font-size: 15px;
+  }
+
+  
