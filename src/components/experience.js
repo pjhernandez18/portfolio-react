@@ -25,7 +25,7 @@ class Experience extends Component {
                                           is a web-based platform that allows IoT device owners to sell real-time data on an online marketplace for public subscribers. 
                                           For proof of concept, the platform utilized MQTT, a publish-subscribe framework, which allowed the buyer and the seller to 
                                           transact payments. I was mainly responsible for streamlining deployment on various platforms using 
-                                          Docker for ease of maintenance and distribution. <a href="https://i3.usc.edu/" target="_blank">Read more here</a>
+                                          Docker for ease of maintenance and distribution. <a href="https://i3.usc.edu/" target="_blank" rel="noopener noreferrer">Read more here</a>
                                       </p>
 					               </div>
 					            </div>
@@ -39,8 +39,8 @@ class Experience extends Component {
 					               	<h2>Software Developer Intern <span>Lantrn - Summer 2018 - Hong Kong</span></h2>
 					                  <p>
                                           Lantrn is a Hong Kong based baggage startup that specializes in producing high quality suitcases with built-in security systems. I worked on a various technical tasks
-                                          including their kickstarter e-commerce site <a href="https://lantrn.co/" target="_blank">here</a> and product testing. Most notably, I worked on optimizing their 
-                                          hardware device funcionality tests by writing a Python algorithm that executes a comprehensive test using <a href="https://nordicsemi.com" target="_blank">Nordic</a> frameworks.
+                                          including their kickstarter e-commerce site <a href="https://lantrn.co/" target="_blank" rel="noopener noreferrer">here</a> and product testing. Most notably, I worked on optimizing their 
+                                          hardware device funcionality tests by writing a Python algorithm that executes a comprehensive test using <a href="https://nordicsemi.com" target="_blank" rel="noopener noreferrer">Nordic</a> frameworks.
                                       </p>
 					               </div>
 					            </div>

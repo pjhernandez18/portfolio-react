@@ -35,7 +35,7 @@ class Sidebar extends Component {
                     </nav>
             <div className="colorlib-footer">
             <p><small>{/*-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> */}
-           Thanks to <a href="https://colorlib.com" target="_blank">Colorlib</a> for the design inpiration for this site!
+           Thanks to <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for the design inpiration for this site!
               </small></p>
               <p><small>
                 

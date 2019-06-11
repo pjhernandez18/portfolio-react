@@ -28,7 +28,7 @@ class Contact extends Component {
                                 <i class="icon-linkedin2"></i>
                             </div>
                             <div class="colorlib-text">
-                                <p><a href="https://linkedin.com/in/pj-hernandez" target="_blank">PJ Hernandez</a></p>
+                                <p><a href="https://linkedin.com/in/pj-hernandez" target="_blank" rel="noopener noreferrer">PJ Hernandez</a></p>
                             </div>
                         </div>
 

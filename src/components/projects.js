@@ -26,8 +26,8 @@ class Projects extends Component {
                                                 your travel experiences. (Swift, iOS camera framework (SwiftyCam), Firebase)
                                             </p>
                                             <p class="icon">
-                                                <span><a href="https://github.com/pjhernandez18/TokenApp-iOS/tree/cam" target="_blank"><i class="icon-github"></i></a></span>
-                                                <span><a href="https://mailchi.mp/2f19900dd984/tokensignup" target="_blank"><i class="icon-world"></i></a></span>
+                                                <span><a href="https://github.com/pjhernandez18/TokenApp-iOS/tree/cam" target="_blank" rel="noopener noreferrer"><i class="icon-github"></i></a></span>
+                                                <span><a href="https://mailchi.mp/2f19900dd984/tokensignup" target="_blank" rel="noopener noreferrer"><i class="icon-world"></i></a></span>
                                             </p>
                                         </div>
                                     </div>
@@ -42,7 +42,7 @@ class Projects extends Component {
                                             recipes and restaurants related to a keyword, allows for the creation of shopping lists based on "Favorited" restaurants/recipes, 
                                             and features full user authentication. (React, Java, Pippo, Firebase)</p>
                                             <p class="icon">
-                                                <span><a href="https://github.com/joshmin98/Im_Hungry_Redux/tree/master/backend" target="_blank"><i class="icon-github"></i></a></span>
+                                                <span><a href="https://github.com/joshmin98/Im_Hungry_Redux/tree/master/backend" target="_blank" rel="noopener noreferrer"><i class="icon-github"></i></a></span>
                                              
                                             </p>
                                         </div>
@@ -58,8 +58,8 @@ class Projects extends Component {
                                             can enjoy eating good food with good people. We take bi-weekly trips to explore LA's rich and diverse food scene. I built 
                                             a static site with core HTML/CSS/Bootstrap elememnts to display club information and events.</p>
                                             <p class="icon">
-                                            <span><a href="https://github.com/pjhernandez18/thesupperclub.github.io" target="_blank"><i class="icon-github"></i></a></span>
-                                                <span><a href="https://thesupperclubsc.com" target="_blank"><i class="icon-world"></i></a></span>
+                                            <span><a href="https://github.com/pjhernandez18/thesupperclub.github.io" target="_blank" rel="noopener noreferrer"><i class="icon-github"></i></a></span>
+                                                <span><a href="https://thesupperclubsc.com" target="_blank" rel="noopener noreferrer"><i class="icon-world"></i></a></span>
                                             </p>
                                         </div>
                                     </div>
@@ -72,7 +72,7 @@ class Projects extends Component {
                                             <h3 className="project-title">Track Changes</h3>
                                             <p className="project-desc">An iOS mobile application that integrates user's Spotify accounts to share music with other registered users.</p>
                                             <p class="icon">
-                                                <span><a href="https://github.com/pjhernandez18/TrackChanges" target="_blank"><i class="icon-github"></i></a></span>
+                                                <span><a href="https://github.com/pjhernandez18/TrackChanges" target="_blank" rel="noopener noreferrer"><i class="icon-github"></i></a></span>
                                             </p>
                                         </div>
                                     </div>
