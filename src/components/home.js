@@ -14,7 +14,7 @@ class Home extends Component {
                             <div className="slider-text-inner js-fullheight">
                                 <div className="desc banner-text">
                                     <h1 style={{"color": "white" , "font-family": 'Courier New', "font-weight": "normal"}}> > Paul Jerome R. Hernandez</h1>
-                                    <h3> > Aspring Software Engineer</h3>
+                                    <h3> > Aspiring Software Engineer</h3>
                                     <h3> > Lifelong Student</h3>  
                                     <h3> > Traveller</h3>
                                     <h3> > _</h3>

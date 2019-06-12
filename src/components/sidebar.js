@@ -10,7 +10,7 @@ class Sidebar extends Component {
                             <div className="text-center">
                             <div className="author-img" style={{backgroundImage: 'url(images/pj.jpg)'}} />
                             <h1><a href="index.html">PJ Hernandez</a></h1>
-                            <span>Aspring Software Engineer</span>
+                            <span>Aspiring Software Engineer</span>
                             </div>
                             <br/>
                             <nav id="colorlib-main-menu" role="navigation" className="navbar">
