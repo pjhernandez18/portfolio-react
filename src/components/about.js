@@ -13,10 +13,10 @@ class About extends Component {
                         <h2 className="colorlib-heading">About Me</h2>
                         <p className="about-desc"> <img className="about-img" src="images/about-me.jpg"/>Hi! My name is Paul Jerome Hernandez, but most call me PJ. I grew up in the Philippines, and have lived in Indonesia, Singapore, and the United States. 
                             I'm an incoming senior at the University of Southern California studying Computer Science. I'm absolutely obsessed with developing user-driven applications and managing consumer-facing software products from ideation to launch.<br></br> <br></br>
-                            I first stumbled on code in high school by building simple circuits using logic gates. I then got exposed to application development and decided to pursue 
-                            CS in college. I got hooked by the idea of using technology to simply my own life and other people's lives. Now, I find myself navigating through 
-                            this career in the hopes of being a part of an organization that empowers people and businesses through technology. <br></br> <br></br>
-                            When I'm not thinking of tech, I'm also into fitness, brewing the perfect cup of coffee, being a foreigner in a new place, and playing competitive sports.
+                            I first stumbled on code in high school by building simple circuits using logic gates. I then got exposed to application development and decided to pursue CS in college. I got hooked by the idea of using technology to improve my own life
+                             and other people's lives. Now, I find myself navigating through this career in the hopes of being a part of an organization that empowers people and businesses through technology. 
+                            <br></br> <br></br>
+                            When I'm not thinking of tech, I'm also into fitness, brewing the perfect cup of coffee, exploring a new place, and playing competitive sports.
                         </p>
                         </div>
                     </div>
@@ -38,8 +38,8 @@ class About extends Component {
                     </span>
                     <div className="desc">
                         <h3>Data Structures & Algorithms</h3>
-                        <p>Coming from a rigorous CS curriculm, I've been taught to hone my fundamentals in devloping data structures and algorithms
-                            that are both time and memory efficient.</p>
+                        <p>Coming from a rigorous CS curriculum, I've been taught to hone my fundamentals
+                            in developing data structures and algorithms that are both time and memory efficient.</p>
                             Java / C++ / Python
                     </div>
                     </div>
@@ -51,7 +51,7 @@ class About extends Component {
                     </span>
                     <div className="desc">
                         <h3>Application Development</h3>
-                        <p>I use what I learn in class and the resources around me to develop and deploy mobile and web applications. 
+                        <p>I use what I learned in class and the resources around me to develop and deploy mobile and web applications. 
                         <br/>
                         </p>
                         HTML, CSS, Javascript, React, Redux, Swift, Node.js, Express.js, MySQL, AJAX, JQuery, Jekyll

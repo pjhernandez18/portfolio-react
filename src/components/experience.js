@@ -40,7 +40,7 @@ class Experience extends Component {
 					                  <p>
                                           Lantrn is a Hong Kong based baggage startup that specializes in producing high quality suitcases with built-in security systems. I worked on a various technical tasks
                                           including their kickstarter e-commerce site <a href="https://lantrn.co/" target="_blank" rel="noopener noreferrer">here</a> and product testing. Most notably, I worked on optimizing their 
-                                          hardware device funcionality tests by writing a Python algorithm that executes a comprehensive test using <a href="https://nordicsemi.com" target="_blank" rel="noopener noreferrer">Nordic</a> frameworks.
+                                          hardware device functionality tests by writing a Python algorithm that executes a comprehensive test using <a href="https://nordicsemi.com" target="_blank" rel="noopener noreferrer">Nordic</a> frameworks.
                                       </p>
 					               </div>
 					            </div>
