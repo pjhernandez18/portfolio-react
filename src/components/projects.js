@@ -27,7 +27,7 @@ class Projects extends Component {
                                             </p>
                                             <p class="icon">
                                                 <span><a href="https://github.com/pjhernandez18/TokenApp-iOS/tree/cam" target="_blank" rel="noopener noreferrer"><i class="icon-github"></i></a></span>
-                                                <span><a href="https://mailchi.mp/2f19900dd984/tokensignup" target="_blank" rel="noopener noreferrer"><i class="icon-world"></i></a></span>
+                                                <span><a href="assets/Pitch Deck_TOKEN.pdf" target="_blank" rel="noopener noreferrer"><i class="icon-world"></i></a></span>
                                             </p>
                                         </div>
                                     </div>
